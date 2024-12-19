@@ -7,7 +7,7 @@ function Projects() {
       title: 'Portfolio Website',
       description: 'A personal portfolio website showcasing my skills, projects, and contact information.',
       technologies: ['React', 'HTML/CSS', 'JavaScript'],
-      link: 'https://github.com/your-repo',
+      link: 'https://github.com/jbui14/Portfolio-React',
     },
     {
       title: '2048 AI Assistant',
